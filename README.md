@@ -1,24 +1,17 @@
 ### Hi there 👋
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Davis0&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-:books:Stack - React, JavaScript, CSS3, HTML5, Node.js, 
+:books: Stack - React, JavaScript, CSS3, HTML5, Node.js, Express
 
+:hammer: Bootstrap, npm, PostgreSQL, Babel, Webpack, Git, GitHub, Slack
 
-
-<!--
-**Alex-Davis0/Alex-Davis0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 About me 
+---
+Hello, I'm Alexander Davis, a Software Engineer who enjoys the challenge brought on by coding and strives to improve my knowledge and understanding of software development.
+### 📫 How to reach me:
+---
+[LinkedIn](https://www.linkedin.com/in/alexander-davis95/)
