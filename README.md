@@ -5,9 +5,9 @@
 
 
 
-:books: Stack - React, JavaScript, CSS3, HTML5, Node.js, Express
+:books: Stack - React, JavaScript, CSS3, HTML5, Node.js, PostgreSQL, Express
 
-:hammer: Bootstrap, npm, PostgreSQL, Babel, Webpack, Git, GitHub, Slack
+:hammer: Bootstrap, npm, Babel, Webpack, Git, GitHub, Slack
 
 ### 💬 About me 
 ---
