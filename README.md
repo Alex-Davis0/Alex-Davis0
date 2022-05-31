@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-Davis0&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+:books:Stack - React, JavaScript, CSS3, HTML5, Node.js, 
+
+
+
 <!--
 **Alex-Davis0/Alex-Davis0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
